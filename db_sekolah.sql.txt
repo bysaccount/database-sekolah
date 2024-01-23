@@ -1,0 +1,106 @@
+select * from tbl_siswa
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118534,'ADELIA INSYA RAMADANI','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118535,'ADHEA VIOLA PUTRI','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118536,'AKILA DESILINA PUTRI','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118537,'ALDI ALFATHANI','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118538,'APTA ALANA RAKHANANTA','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118539,'ARYA DWI NITINEGARA','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118540,'BAIQ LEUNA ZARANTI DESMITHA','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118541,'BIASH QALBI RABBANI','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118542,'CHRISTIAN ANTONY KAKA','PROTESTAN','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118543,'DEWI GINA','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118544,'EURICO ARVA ADITYA','PROTESTAN','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118545,'GABRIELLE CHRISTINE CARISSA TANAYA','PROTESTAN','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118546,'GHERAL DEVA BAGUS ARCHANA','HINDU','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118547,'I KETUT RAMA SUARDANA PUTRA','HINDU','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118548,'I PUTU ARYA LAKSAMANA PUTRA','HINDU','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118549,'KEVIN WIRYANSYAH','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118550,'MAELANI PUTRI','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118551,'MAHARAJA PUTRA AGNI','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118552,'MEISYA ALEYA SIGEN','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118553,'MUHAMMAD FARIS ALFAHREZY','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118554,'MUHAMMAD HUSNI HASAN','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118555,'MUHAMMAD RIDHO','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118556,'PUTU BUNGA CITRA WITANA','PROTESTAN','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118557,'RADIAN WIRADANA','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118558,'RARA AVTIKA KANI','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118559,'RIRIN AGUSTINA','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118560,'RISKA SUCIYANTI','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118561,'RIZKI INDRAWAN','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118562,'SAYYID AHMAD','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118563,'SYFAIYAH','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118564,'ULWATIN','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118565,'YAKUTUN NAFISAH','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118566,'RIFKI ADITYA','ISLAM','LAKI-LAKI')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118567,'SUCI NUR SABILA','ISLAM','PEREMPUAN')
+
+insert into tbl_siswa(nis,nama,agama,jenis_kelamin)
+values(23118568,'MUHAMMAD GERALDO ROZZY','ISLAM','LAKI-LAKI')
